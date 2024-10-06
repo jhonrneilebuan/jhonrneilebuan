@@ -31,6 +31,8 @@
 </p>
 
 
+<img src="/jhonrneil/jhonrneil/raw/main/contributions.svg" style="max-width: 100%;">
+
 
 <!--
 **jhonrneilebuan/jhonrneilebuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
