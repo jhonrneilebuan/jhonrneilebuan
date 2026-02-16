@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👨‍💻 All of my projects are available at [jhonrneilebuan.github.io/portfolio-web](https://jhonrneilebuan.github.io/portfolio-web/)
+- 👨‍💻 All of my projects are available at [https://jhonrneil-resume.vercel.app](https://jhonrneil-resume.vercel.app)
 
 - 💬 Ask me about **My journey as a System Development major, Android Studio, MySQL, or any projects I'm working on.**
 
