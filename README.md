@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Jhon R-Neil Ebuan</h1>
-<h3 align="center">A dedicated 4th-year BSIT student at PHINMA University of Pangasinan, specializing in System Development.</h3>
+<h3 align="center">>BSIT Graduate | System Developer | Mobile Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonrneilebuan&label=Profile%20views&color=0e75b6&style=flat" alt="jhonrneilebuan" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 Fresh BSIT Graduate (System Development) – PHINMA University of Pangasinan
 
 - 👨‍💻 All of my projects are available at [click my resume.](https://jhonrneil-resume.vercel.app)
 
